@@ -24,7 +24,11 @@ git push origin main
 
 # check git Action in Browser
 
-# Deployment to cloud
+# There is no Jenkins.Jenkins is in built in git Action
+
+# Deployment to Aws cloud
+ssh -i piet.pem ubuntu@54.184.142.1
+install docker in Ec2 machine
 
 #GitHub Secrets
 Settings → Secrets and variables → Actions
